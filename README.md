@@ -34,7 +34,7 @@ Cuento con un fuerte dominio en el ecosistema de **Node.js** para el backend y *
 
 ## Experiencia Profesional
 
-### Centro de Capacitación para el Trabajo (CECATI)
+### Centro de Capacitación para el Trabajo Tecamachalco (CCTT)
 **Desarrollador Backend & Frontend** | *May 2024 - Ago 2024*
 
 - Desarrollo de interfaces de usuario avanzadas utilizando el framework **Flet**.
@@ -53,6 +53,7 @@ Cuento con un fuerte dominio en el ecosistema de **Node.js** para el backend y *
 ## Educación e Idiomas
 
 - **T.S.U. en Desarrollo de Software Multiplataforma** - Universidad Tecnológica de Tecamachalco.
+- **Ingeniería en Desarrollo y Gestión de Software** - Universidad Tecnológica Santa Catarina
 - **Idiomas:** Español (Nativo) | Inglés (B2 - Intermedio Alto).
 
 ---
@@ -60,7 +61,7 @@ Cuento con un fuerte dominio en el ecosistema de **Node.js** para el backend y *
 ## Habilidades Profesionales
 
 - **Pensamiento Analítico:** Capacidad para desglosar problemas complejos en soluciones técnicas simples.
-- **Autodidacta:** Constantemente explorando nuevas librerías en Node.js y React.
+- **Autodidacta:** Constantemente explorando nuevas tecnologías y métodos de trabajo.
 - **Adaptabilidad:** Experiencia trabajando en entornos académicos y profesionales con diversas tecnologías.
 - **Resolución de Problemas:** Enfoque en código limpio y mantenible.
 
