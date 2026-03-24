@@ -69,8 +69,8 @@ Cuento con un fuerte dominio en el ecosistema de **Node.js** para el backend y *
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true&title_color=002147&icon_color=002147" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&title_color=002147" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoelMaldonado&show_icons=true&theme=tokyonight&count_private=true&title_color=002147&icon_color=002147" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelMaldonado&layout=compact&theme=tokyonight&title_color=002147" height="160"/>
 </p>
 
 ---
